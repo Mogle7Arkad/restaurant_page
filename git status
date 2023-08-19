@@ -1,0 +1,29 @@
+[33mcommit 5479405354a2e5eed852e5999befe9ca81ba9be1[m[33m ([m[1;36mHEAD -> [m[1;32maux-branch[m[33m)[m
+Author: Ali George <george7ali@gmail.com>
+Date:   Fri Aug 18 03:05:50 2023 +0100
+
+    created 2 js files in the src folder. page load and restaurant to handle loading of modules to the project and adding images respectively
+
+[33mcommit 084b4304dd954b3c2bbcb114a6086d817aa99d8f[m
+Author: Ali George <george7ali@gmail.com>
+Date:   Thu Aug 17 23:58:43 2023 +0100
+
+    code into index.js to ensure the webpack is set-up properly
+
+[33mcommit c357096f624ba322ad5c0d617710052aa53c025f[m
+Author: Ali George <george7ali@gmail.com>
+Date:   Thu Aug 17 23:48:50 2023 +0100
+
+    created the web pack config file, linked the js and the html file in the src folder and created a div with cid content
+
+[33mcommit c6e0943c6f876b6b65630089ec09643e4431e840[m
+Author: Ali George <george7ali@gmail.com>
+Date:   Thu Aug 17 23:24:52 2023 +0100
+
+    did npm init and filled the necessary information regarding the task and installed the webpack packages also created dist and src folder for the project
+
+[33mcommit 9eed95dcb636f4b4ba72c6a253c9d34b97bc8210[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Ali George <george7ali@gmail.com>
+Date:   Thu Aug 17 22:41:42 2023 +0100
+
+    Initial commit
