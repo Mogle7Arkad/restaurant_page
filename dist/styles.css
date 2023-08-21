@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: rgb(15, 29, 24);
+    padding-top: 10px;
 }
 .tab{
     display: inline-block;
@@ -36,4 +36,8 @@ input[type="submit"]{
     border: none;
     border-radius: 3px;
     cursor: pointer;
+}
+
+input[type="submit"]:hover{
+    background-color: #4caf50;
 }
